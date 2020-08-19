@@ -13,7 +13,7 @@ git clone https://github.com/jaman7/sample_heros.git heros
 yarn install
 ```
 
-## Usage
+## run command
 
 ```
 gulp
