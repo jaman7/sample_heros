@@ -1,0 +1,44 @@
+.bg-list {
+	background-color: $bg-gray;
+	color: $colorWhite;
+	border: 1px solid $colorWhite;
+}
+
+.font-w600 {
+	font-weight: 600;
+}
+
+.list-title {
+	font-size: 1.2rem;
+	font-weight: 700;
+}
+
+.bio-title {
+	&-name {
+		font-size: 1.2rem;
+		font-weight: 700;
+	}
+
+	&-item {
+		font-size: 0.9rem;
+
+		& span {
+			font-size: 1rem;
+			font-weight: 500;
+
+			&.list {
+				font-size: 0.9rem;
+				font-weight: 400;
+				margin-right: 0.5rem;
+			}
+		}
+	}
+}
+
+.title-power {
+	line-height: initial;
+	font-size: 0.9rem;
+	&:first-letter {
+		text-transform: uppercase;
+	}
+}
