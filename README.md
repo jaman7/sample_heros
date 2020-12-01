@@ -2,6 +2,8 @@
 
 Sample Heros React/Mobx app.
 
+Demo: https://jsdevpro.pl/heros/
+
 ## Installation:
 
 ## Use git clone.
